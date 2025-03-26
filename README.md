@@ -1,5 +1,6 @@
 <div>
-  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="mayankagarwal1234" /> I'm Mayank Agarwal </h1>
+  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="mayankagarwal1234" /> I'm Mayank Agarwal </h1><img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="mayankagarwal" />
+</div>
   <h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City, Bhagalpur, Bihar.<br>
   <br>| "Building seamless and scalable digital solutions" |<hr>
   </h3>
