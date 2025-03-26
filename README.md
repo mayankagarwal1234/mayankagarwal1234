@@ -80,4 +80,4 @@
 
 ## Support Me
 
-<h3>If you like my work, you can support me by buying me a coffee Thanks! </h3>
+<h3>If you like my work, you can support me Thanks! </h3>
