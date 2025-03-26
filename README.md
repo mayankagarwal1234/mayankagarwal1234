@@ -1,7 +1,6 @@
 <h1 align="center">Hello People 👋, I'm Mayank Agarwal</h1>
 <h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City Bhagalpur, Bihar</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="Peofile Photo" /> </p> 
 
 
