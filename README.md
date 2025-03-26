@@ -1,5 +1,5 @@
-<h1 align="center">Hello People 👋, I'm Mayank Agarwal</h1>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="maynankagarwal1234" /> 
+<h1 align="center">Hello People 👋, I'm Mayank Agarwal <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="maynankagarwal1234" /> </h1>
+
 <h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City Bhagalpur, Bihar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> 
