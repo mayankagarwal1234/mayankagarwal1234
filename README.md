@@ -7,10 +7,6 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="mayankagarwal1234" /> </p> 
 
-
-
-## 🚀 About Me
-
 - 🔭 I’m currently working on **Chat App, E-commerce Websites**
 - 🌱 I’m currently learning **React Native, Redux**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mayankagarwal1234)
