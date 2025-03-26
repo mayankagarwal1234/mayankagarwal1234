@@ -1,8 +1,16 @@
-<div><h1 align="center">Hello People 👋, I'm Mayank Agarwal </h1>  <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="maynankagarwal1234" /> </div>
+<div>
+  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="mayankagarwal1234" /> I'm Mayank Agarwal </h1>
+  <h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City, Bhagalpur, Bihar.<br>
+  <br>| "Building seamless and scalable digital solutions" |<hr>
+  </h3>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="mayankagarwal1234" /> </p> 
 
-<h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City Bhagalpur, Bihar</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> 
+  - 🔭 I’m currently working on **Chat App, E-commerce Websites**
+  - 🌱 I’m currently learning **React Native, Redux**
+  - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mayankagarwal1234)
+  - 📫 Reach me at **mayankagarwal2789@gmail.com**
+  - ⚡ Fun fact : **Apart from coding, I excel in various sports and am an enthusiastic traveler!**
 
 
 ## 🚀 About Me
