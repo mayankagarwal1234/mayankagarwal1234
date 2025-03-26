@@ -1,7 +1,7 @@
 <h1 align="center">Hello People 👋, I'm Mayank Agarwal</h1>
 <h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City Bhagalpur, Bihar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="Peofile Photo" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> 
 
 
 ## 🚀 About Me
@@ -76,3 +76,7 @@
 <a href="https://github.com/mayankagarwal1234/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankagarwal1234&theme=high-contrast" alt="GitHub Activity Graph" />
 </a>
+
+## Support Me
+
+<h3>If you like my work, you can support me by buying me a coffee Thanks! </h3>
