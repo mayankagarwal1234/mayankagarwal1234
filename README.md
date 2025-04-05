@@ -66,15 +66,9 @@
           <img src="https://github-readme-stats.vercel.app/api?username=mayankagarwal1234&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&theme=highcontrast" width="100%" height="135px" />
         </a>
         <br />
-      
-      </td>
-    </tr>
+    
   </table>
 </div>
-
-<a href="https://github.com/mayankagarwal1234/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankagarwal1234&theme=high-contrast" alt="GitHub Activity Graph" />
-</a>
 
 ## Support Me
 
