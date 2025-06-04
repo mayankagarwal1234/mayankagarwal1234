@@ -58,17 +58,18 @@
     <tr>
       <td width="50%" valign="top">
         <a href="https://github.com/mayankagarwal1234">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankagarwal1234&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankagarwal1234&hide=html,css&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
         </a>
       </td>
       <td width="50%" valign="top">
         <a href="https://github.com/mayankagarwal1234">
           <img src="https://github-readme-stats.vercel.app/api?username=mayankagarwal1234&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&theme=highcontrast" width="100%" height="135px" />
         </a>
-        <br />
-    
+      </td>
+    </tr>
   </table>
 </div>
+
 
 ## Support Me
 
