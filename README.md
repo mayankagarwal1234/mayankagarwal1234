@@ -1,17 +1,24 @@
 <div>
-  <h1 align="center">Hello People , <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="mayankagarwal1234" /> I'm Mayank Agarwal </h1><img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="mayankagarwal" />
+  <h1 align="center">Hello People , <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="mayankagarwal1234" /> I'm Mayank Agarwal </h1>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="mayankagarwal" />
 </div>
-  <h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City, Bhagalpur, Bihar.<br>
-  <br> "Building seamless and scalable digital solutions" <hr>
-  </h3>
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="mayankagarwal1234" /> </p> 
 
-- 🔭 I’m currently working for **Yati Enterprise** for designing its E-commerce website
-- 🌱 I’m currently learning **React Native, Redux**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mayankagarwal1234)
-- 📫 Reach me at **mayankagarwal2789@gmail.com**
+<h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City, Bhagalpur, Bihar.<br>
+<br> "Building seamless and scalable digital solutions" <hr>
+</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="mayankagarwal1234" /> 
+</p>
+
+- 🔭 I recently completed internships at **Yati Transport**, **Nutrimeva**, and **Lynsa**, where I contributed to full-stack and cloud-based product development.  
+- 💼 At **Lynsa**, I worked as a *Full Stack Developer* — building a consulting platform that improved outreach efficiency using React, Node.js, and AWS.  
+- 🌱 I’m currently learning **React Native** and **Redux** to expand my cross-platform development skills.  
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mayankagarwal1234)  
+- 📫 Reach me at **mayankagarwal2789@gmail.com**  
 - ⚡ Fun fact: **In addition to coding, I excel in various sports and am an enthusiastic traveler.**
+
+---
 
 ## 📞 Connect with Me:
 <p align="left">
@@ -95,7 +102,8 @@
   </table>
 </div>
 
+---
 
-## Support Me
+## ☕ Support Me
 
-<h3>If you like my work, you can support me Thanks! </h3>
+<h3>If you like my work, you can support me — Thanks! 😊</h3>
