@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=mayankagarwal1234&label=Profile%20views&color=0e75b6&style=flat" alt="mayankagarwal1234" /> 
 </p>
 
-- 🔭 I recently completed internships at **Yati Transport**, **Nutrimeva**, and **Lynsa**, where I contributed to full-stack and cloud-based product development.  
+- 🔭 I recently completed internships at **Yati Transport** and **Lynsa**, where I contributed to full-stack and cloud-based product development.  
 - 💼 At **Lynsa**, I worked as a *Full Stack Developer* — building a consulting platform that improved outreach efficiency using React, Node.js, and AWS.  
-- 🌱 I’m currently learning **React Native** and **Redux** to expand my cross-platform development skills.  
+- 🌱 I’m currently learning **System Design** and **Redux** to expand my cross-platform development skills.  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mayankagarwal1234)  
 - 📫 Reach me at **mayankagarwal2789@gmail.com**  
 - ⚡ Fun fact: **In addition to coding, I excel in various sports and am an enthusiastic traveler.**
