@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello People , <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="mayankagarwal1234" /> I'm Mayank Agarwal </h1>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="mayankagarwal" />
+  <img align="right" src="https://tse2.mm.bing.net/th/id/OIP.BnEaEPPvOvpfQecuxCrWBwHaHa?cb=ucfimg2&ucfimg=1&w=474&h=379&c=7&p=0" alt="mayankagarwal" />
 </div>
 
 <h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City, Bhagalpur, Bihar.<br>
