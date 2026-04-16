@@ -1,9 +1,9 @@
 <div>
 <h1 align="center">
-  Hello People,
+  Hello People ,
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp"
-       height="35"
-       width="35"
+       height="45"
+       width="45"
        style="vertical-align: middle;"
        alt="wave" />
   I'm Mayank Agarwal
