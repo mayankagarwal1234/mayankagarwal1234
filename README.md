@@ -32,10 +32,16 @@
 ---
 
 ## 📞 Connect with Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/mayank-agarwal-04284a258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="40" /></a>
-<a href="https://www.instagram.com/mayank__agarwal_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="40" /></a>
-<a href="https://www.leetcode.com/mayank_agarwal_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/mayank-agarwal-04284a258/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mayank__agarwal_/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/mayank_agarwal_">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25"/>
+  </a>
 </p>
 
 ---
