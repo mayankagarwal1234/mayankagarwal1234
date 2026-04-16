@@ -1,18 +1,17 @@
-<div>
+<div align="center">
   <img src="https://tse2.mm.bing.net/th/id/OIP.BnEaEPPvOvpfQecuxCrWBwHaHa?cb=ucfimg2&ucfimg=1&w=474&h=379&c=7&p=0"
-       style="float: right; margin-left: 100px;"
-        align="center"
+       style="float: right; margin-left: 80px;"
        width="700"
        alt="mayankagarwal" />
 
-  <h1 align="center">
+  <h1>
     Hello People,
      I'm Mayank Agarwal
   </h1>
-    <img align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp"
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp"
          height="45"
          width="45"
-          style="float: right; margin-left: 100px;"" />
+         style="float: right; margin-left: 80px;"" />
 </div>
 
 <h3 align="center">A passionate full-stack developer from IIIT Jabalpur, Madhya Pradesh, hailing from Silk City, Bhagalpur, Bihar.<br>
