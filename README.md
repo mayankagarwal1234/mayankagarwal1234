@@ -1,7 +1,8 @@
 <div>
   <img src="https://tse2.mm.bing.net/th/id/OIP.BnEaEPPvOvpfQecuxCrWBwHaHa?cb=ucfimg2&ucfimg=1&w=474&h=379&c=7&p=0"
        style="float: right; margin-left: 30px;"
-       width="600"
+        align="center"
+       width="800"
        alt="mayankagarwal" />
 
   <h1 align="center">
