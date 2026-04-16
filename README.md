@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hello People ,<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="mayankagarwal1234" /> I'm Mayank Agarwal </h1>
+  <h1 align="center">Hello People,<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="mayankagarwal1234" /> I'm Mayank Agarwal </h1>
   <img align="right" src="https://tse2.mm.bing.net/th/id/OIP.BnEaEPPvOvpfQecuxCrWBwHaHa?cb=ucfimg2&ucfimg=1&w=474&h=379&c=7&p=0" alt="mayankagarwal" />
 </div>
 
