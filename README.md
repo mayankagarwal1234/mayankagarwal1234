@@ -2,7 +2,7 @@
   <img src="https://tse2.mm.bing.net/th/id/OIP.BnEaEPPvOvpfQecuxCrWBwHaHa?cb=ucfimg2&ucfimg=1&w=474&h=379&c=7&p=0"
        style="float: right; margin-left: 100px;"
         align="center"
-       width="800"
+       width="700"
        alt="mayankagarwal" />
 
   <h1 align="center">
